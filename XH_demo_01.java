@@ -1,5 +1,5 @@
 package text_02;
-
+//小于某数的偶数和；
 import java.util.Scanner;
 
 public class XH_demo_01 {
