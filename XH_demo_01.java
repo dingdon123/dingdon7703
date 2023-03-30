@@ -7,7 +7,7 @@ public class XH_demo_01 {
 	{
 		int sum=0;
 		int j=0;
-		System.out.println("Ҫ�ۼӵ���");
+		System.out.println("小于i的偶数和，i=");
 		Scanner sc=new Scanner(System.in);
 		int i=sc.nextInt();
 		while(j<i)
@@ -16,7 +16,7 @@ public class XH_demo_01 {
 			sum+=j;
 			j++;
 		}
-		System.out.println("�ۼӺͣ�"+sum);
+		System.out.println("和为："+sum);
 	}
 
 }
